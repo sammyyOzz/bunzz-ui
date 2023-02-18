@@ -1,4 +1,3 @@
-import React from "react";
 import { KTSVG } from "../../../../../_start/helpers";
 
 export function Changelog() {
